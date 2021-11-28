@@ -1,0 +1,15 @@
+site_name: Python Book
+site_description: "Writing Clean Python"
+site_author: "charliec443"
+docs_dir: docs/
+repo_name: "charliec443/python-book"
+repo_url: "https://github.com/charliec443/python-book"
+theme:
+  name: "material"
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - tables

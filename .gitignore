@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# ignore project folders
+branches
+variables
+guessing_game
+rectangles
+structures
+loops
+
+.vscode
